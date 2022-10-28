@@ -132,4 +132,3 @@ local args = {
 
 game:GetService("ReplicatedStorage").Events.PromoRewards:FireServer(unpack(args))
 
-wait(1)
